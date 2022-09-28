@@ -1,0 +1,12 @@
+table{
+    margin-top: 50px;
+    text-align: center;
+    background: rgb(9, 239, 150);
+    color:black;
+}
+#show th, #show td{
+    padding: 13px;
+}
+#btn1 td input{
+    width: 100%;
+}
